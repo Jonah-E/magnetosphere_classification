@@ -1,1 +1,3 @@
-# magnetosphere_classification
+# Magnetosphere Classification
+
+

@@ -1,0 +1,17 @@
+numpy
+pandas
+pyarrow==20.0.0
+seaborn
+matplotlib
+scikit-learn
+cdflib
+xarray
+cdasws
+plotly
+anywidget
+nbformat
+torchinfo
+speasy
+
+spacephyml @ git+https://github.com/Jonah-E/SpacePhyML.git@main
+
