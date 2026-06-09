@@ -13,5 +13,5 @@ nbformat
 torchinfo
 speasy
 
-spacephyml @ git+https://github.com/Jonah-E/SpacePhyML.git@main
-
+--extra-index-url https://test.pypi.org/simple/
+spacephyml
